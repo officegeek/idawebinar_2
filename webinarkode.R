@@ -28,7 +28,7 @@ TourismeSpend <- read_excel("tourism.xlsx",
                             sheet = "Data",
                             skip = 3) 
 
-# MetadataCountries #
+# MetadataCountries
 TourismeMetadata <- read_excel("tourism.xlsx",
                                sheet = "MetadataCountries",
                                range = cell_cols("A:C"))
