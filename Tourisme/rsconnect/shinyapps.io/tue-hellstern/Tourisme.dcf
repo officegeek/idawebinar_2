@@ -1,0 +1,12 @@
+name: Tourisme
+title: Tourisme
+username:
+account: tue-hellstern
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3299349
+bundleId: 3903880
+url: https://tue-hellstern.shinyapps.io/Tourisme/
+when: 1606299217.91677
+asMultiple: FALSE
+asStatic: FALSE
